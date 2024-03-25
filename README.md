@@ -1,9 +1,22 @@
 恭喜你，成为第 ![Visitor Count](https://profile-counter.glitch.me/xxxgod/count.svg) 名访问者
-<div align="left"> <img src="https://readme-typing-svg.herokuapp.com/?lines=祝您生活愉快!&center=true&font=Roboto&size=27" /></div>
+<div align="left"> <img src="https://readme-typing-svg.herokuapp.com/?lines=xxxgod祝您生活愉快!&center=true&font=Roboto&size=27" /></div>
 
 
 ## Hi, 👋  I'm <a href="http://welcome.voup.cn">xxxgod</a>
-我是一名后端开发人员，拥有十年工作经验，热爱编程
+我是一名后端开发人员 & ROM逆向开发爱好者，拥有十年工作经验，热爱编程
+
+<!-- profile logo 个人资料徽标 -->
+<div>
+    <a href="https://blog.sunguoqi.com/"><img src="http://xblog.itqu.net" /></a>&emsp;
+    <a href="https://twitter.com/sun0225SUN/"><img src="" /></a>&emsp;
+    <a href="https://www.youtube.com/@sun0225SUN"><img src="" /></a>&emsp;
+    <a href="https://mp.sunguoqi.com"><img src="" /></a>&emsp;
+    <a href="https://space.bilibili.com/448488855/"><img src="" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_50915462/"><img src="" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="" /></a>&emsp;
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=xxxgod&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
 
 
 <div align="left"> 
@@ -21,19 +34,6 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-
-<!-- profile logo 个人资料徽标 -->
-<div>
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
 
 <!--  skill badge 技能徽章 -->
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)

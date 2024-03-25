@@ -2,7 +2,7 @@
 <div align="left"> <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println%28%22hello%20world%21%22%29%3B&center=true&font=Roboto&size=27" /></div>
 
 
-## Hi, 👋  I'm <a href="http://welcome.voup.cn">xxxgod</a>
+## Hi, 👋  I'm <a href="https://github.com/xxxgod">xxxgod</a>
 我是一名后端开发人员 & ROM逆向开发爱好者，拥有十年工作经验，热爱编程。
 
 <!-- profile logo 个人资料徽标 -->

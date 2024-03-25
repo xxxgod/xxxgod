@@ -1,9 +1,9 @@
 
 ## Hi, 👋  I'm <a href="http://welcome.voup.cn">xxxgod</a>
 
-![](https://github-readme-stats.vercel.app/api?username=xxxgod&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=xxxgod&show_icons=true&theme=transparent)<div align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-tian-hub" /> </div>
 
-<div align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-tian-hub" /> </div>
+
 
 
 

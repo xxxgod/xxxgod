@@ -21,6 +21,7 @@
 
 <div align="left"> 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xxxgod&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+  
 <!-- 图片 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxgod&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
@@ -34,11 +35,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxxgod&theme=default&hide_border=true" />
 </picture>
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/xxxgod/xxxgod/assets/images/right.png" />
-
-<!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/xxxgod/xxxgod/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/xxxgod/xxxgod/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/xxxgod/xxxgod/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>

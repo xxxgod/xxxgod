@@ -11,7 +11,7 @@
     <a href="http://bbs.itqu.net/"><img src="https://img.shields.io/badge/bbs-论坛-yellow" /></a>&emsp;
     <a href="http://bbs.zecoki.com/data/attachment/common/cf/193825mq53xbad0blzbvl0.png"><img src="https://img.shields.io/badge/tiktok-抖音-black" /></a>&emsp;
     <a href="http://bbs.zecoki.com/source/plugin/uauc_onserv/static/onserv_logo.png"><img src="https://img.shields.io/badge/WeChat-公众号-red" /></a>&emsp;
-    <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/Official accounts-微信-07c160" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;

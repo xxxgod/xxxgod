@@ -75,7 +75,7 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,cs,ts,redis,mongodb,idea,git,gitlab,gitee,docker,elasticsearch,html,java,linux,jenkins,markdown,nginx,shell" /><br>
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,cs,ts,redis,mongodb,idea,git,gitlab,docker,elasticsearch,html,java,linux,jenkins,markdown,nginx,shell" /><br>
 
 <div> 
 <!-- 图片 -->

@@ -1,9 +1,9 @@
 恭喜你，成为第 ![Visitor Count](https://profile-counter.glitch.me/xxxgod/count.svg) 名访问者
-<div align="left"> <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println("hello world!");&center=true&font=Roboto&size=27" /></div>
+<div align="left"> <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println%28%22hello%20world%21%22%29%3B&center=true&font=Roboto&size=27" /></div>
 
 
 ## Hi, 👋  I'm <a href="http://welcome.voup.cn">xxxgod</a>
-我是一名后端开发人员 & ROM逆向开发爱好者，拥有十年工作经验，热爱编程
+我是一名后端开发人员 & ROM逆向开发爱好者，拥有十年工作经验，热爱编程。
 
 <!-- profile logo 个人资料徽标 -->
   <div>
@@ -22,10 +22,9 @@
 <!-- GitHub 统计卡片 -->
 <div align="left"> 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xxxgod&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
-</div>
-
 <!-- GitHub 语言统计 -->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
+</div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>

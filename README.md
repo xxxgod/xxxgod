@@ -1,4 +1,4 @@
-#### 恭喜你，成为第 ![Visitor Count](https://profile-counter.glitch.me/xxxgod/count.svg) 名访问者
+#### 恭喜你，成为第 ![Visitor Count](https://profile-counter.glitch.me/xxxgod/count.svg) 名访问者!
 <div align="left"> <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println%28%22hello%20world%21%22%29%3B&center=true&font=Roboto&size=27" /></div>
 
 
@@ -59,7 +59,6 @@
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
-![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)

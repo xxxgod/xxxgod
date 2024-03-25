@@ -1,7 +1,9 @@
 
-## Hi, 👋  I'm <a href="http://welcome.voup.cn">xxxgod</a>
+Hi, 👋  I'm <a href="http://welcome.voup.cn">xxxgod</a>
+我是一名后端开发人员，
 
-![](https://github-readme-stats.vercel.app/api?username=xxxgod&show_icons=true&theme=transparent) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-tian-hub" />
+
+![](https://github-readme-stats.vercel.app/api?username=xxxgod&show_icons=true&theme=transparent) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 
 

@@ -1,5 +1,5 @@
 ## Hi, 👋  I'm <a href="https://github.com/xxxgod">xxxgod</a>
-<div align="left"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎你，成为本站访客!&font=Roboto&size=20" /></div>
+<div align="left"> <img src="https://readme-typing-svg.herokuapp.com/?lines=感谢您的关注!&font=Roboto&size=20" /></div>
 
 我是一名后端开发人员 & ROM逆向开发爱好者，拥有十年工作经验，热爱编程。<br>
 

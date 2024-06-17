@@ -1,7 +1,7 @@
 ## Hi, 👋  I'm <a href="https://github.com/xxxgod">xxxgod</a>
-<div align="left"> <img src="https://readme-typing-svg.herokuapp.com/?lines=我是一名后端开发人员 & ROM逆向开发爱好者，拥有十年工作经验，热爱编程&font=Roboto&size=20" /></div>
+<div align="left"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的Github&font=Roboto&size=20" /></div>
 
-
+我是一名后端开发人员 & ROM逆向开发爱好者，拥有十年工作经验，热爱编程
 <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="http://xblog.itqu.net/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;

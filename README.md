@@ -2,7 +2,7 @@
 
 <div align="left"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的Github首页&font=Roboto&size=20" /></div>
 
-我是一名后端开发人员 & ROM逆向开发爱好者，拥有十年工作经验，热爱编程.<br>
+我是一名Java后端开发程序员 & ROM逆向开发爱好者，拥有十年工作经验，热爱编程.<br>
 
 <!-- profile logo 个人资料徽标 -->
   <div>
@@ -19,10 +19,10 @@
 
 <!-- GitHub 统计卡片 -->
 <div align="left"> 
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=xxxgod&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=xxxgod&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
   
 <!-- GitHub 语言统计 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
+<img height="203px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
 </div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->

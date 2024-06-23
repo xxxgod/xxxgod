@@ -7,8 +7,8 @@
   <div>
     <a href="https://xxxgod.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="http://bbs.itqu.net/"><img src="https://img.shields.io/badge/bbs-论坛-yellow" /></a>&emsp;
-    <a href="http://bbs.zecoki.com/data/attachment/common/cf/193825mq53xbad0blzbvl0.png"><img src="https://img.shields.io/badge/Douyin-抖音-black" /></a>&emsp;
-    <a href="http://bbs.zecoki.com/source/plugin/uauc_onserv/static/onserv_logo.png"><img src="https://img.shields.io/badge/Subscriptions-订阅号-red" /></a>&emsp;
+<!--     <a href="http://bbs.zecoki.com/data/attachment/common/cf/193825mq53xbad0blzbvl0.png"><img src="https://img.shields.io/badge/Douyin-抖音-black" /></a>&emsp;
+    <a href="http://bbs.zecoki.com/source/plugin/uauc_onserv/static/onserv_logo.png"><img src="https://img.shields.io/badge/Subscriptions-订阅号-red" /></a>&emsp; -->
     <a href=""><img src="https://img.shields.io/badge/Wechat-微信-07c160" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/CSDN-CSDN-c32136" /></a>&emsp;

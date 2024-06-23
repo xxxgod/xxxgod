@@ -11,7 +11,7 @@
     <a href="http://bbs.zecoki.com/source/plugin/uauc_onserv/static/onserv_logo.png"><img src="https://img.shields.io/badge/Subscriptions-订阅号-red" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/Wechat-微信-07c160" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href=""><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/CSDN-CSDN-c32136" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
 </div>
 <br>

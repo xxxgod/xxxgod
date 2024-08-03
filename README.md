@@ -9,18 +9,22 @@
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=xxxgod&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
-
+  
+<table>
+<tr><td>
 ### 🤺 About Me
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 <p>&emsp;&emsp;嗨，你好，我是xxgod。热爱编程。</p>
 <p>&emsp;&emsp;计算机科学与技术专业，从事JAVA开发。</p>
-
+ <td><tr>
+<tr><td>
 ### 🏢 Work Experience
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
 - [工作经验] 📌 2013-07 —— Now <br>
 - 工作岗位：JAVA开发工程师
 <p>&emsp;&emsp;</p>
 
+<td><tr>
 
 <!-- github 统计 -->
 <div align="left"> <img height="137px"  src="https://github-readme-stats.vercel.app/api?username=xxxgod&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -29,5 +33,5 @@
 <!-- github 奖杯 -->
 <div align="left"> <img width="800" src="https://github-profile-trophy.vercel.app/?username=xxxgod" /> </div>
 
-
+</table>
 

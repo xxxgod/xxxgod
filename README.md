@@ -14,13 +14,13 @@
 
 ### 🤺 About Me
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
-<p>&emsp;&emsp;嗨，你好，我是xxgod。热爱编程。</p>
-<p>&emsp;&emsp;计算机科学与技术专业，从事JAVA开发。</p>
+<p>&emsp;&emsp;嗨，你好，我是xxxgod，程序员一枚。</p>
+<p>&emsp;&emsp;计算机科学与技术专业，熟悉领域：安卓逆向开发，JAVA后端开发。</p>
 
 ### 🏢 Work Experience
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
 - [工作经验] 📌 2013-07 —— Now <br>
-- 工作岗位：JAVA开发工程师
+- 工作岗位：📌  JAVA开发工程师
 <p>&emsp;&emsp;</p>
 
 

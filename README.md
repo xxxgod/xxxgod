@@ -29,7 +29,13 @@
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxgod&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 <!-- github 奖杯 -->
-<div align="center"> <img width="1600" src="https://github-profile-trophy.vercel.app/?username=xxxgod" /> </div>
+<div style="text-align: center;">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=xxxgod" 
+    alt="GitHub Trophy"
+    style="max-width: 100%; height: auto; display: inline-block;"
+  >
+</div>
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,jenkins,idea,git,ps,ai,cpp,css,html,js,mongodb,vscode,vue,jquery" /><br>

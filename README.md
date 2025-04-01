@@ -2,8 +2,8 @@
  
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://xxxgod.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+       <a href="https://"><img src="https://img.shields.io/badge/Tiktok-抖音-blue" /></a>&emsp;
     <a href="https://"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
@@ -29,7 +29,7 @@
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxgod&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 <!-- github 奖杯 -->
-<div align="left"> <img width="800" src="https://github-profile-trophy.vercel.app/?username=xxxgod" /> </div>
+<div align="left"> <img width="600" src="https://github-profile-trophy.vercel.app/?username=xxxgod" /> </div>
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,ai,cpp,css,html,js,mongodb,vscode,idea,git" /><br>

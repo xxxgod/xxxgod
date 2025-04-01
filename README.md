@@ -15,7 +15,13 @@
 ### 🤺 About Me
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 <p>&emsp;&emsp;xxxgod，程序员。</p>
-<p>&emsp;&emsp;计算机科学与技术专业，熟悉领域：安卓逆向开发，JAVA后端开发。</p>
+<p>&emsp;&emsp;计算机科学与技术专业，熟悉领域：安卓ROM逆向开发，JAVA后端开发。</p>
+
+ ### 🤺 Focus areas
+ <p>&emsp;&emsp;ERP/OA/CRM,电商系统</p>
+ <p>&emsp;&emsp;MTK,高通刷机方案\smali反编译</p>
+ <p>&emsp;&emsp;私有云部署</p>
+ 
 
 ### 🏢 Work Experience
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />

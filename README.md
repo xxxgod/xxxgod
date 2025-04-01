@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=我是xxxgod;欢迎访问我的github首页!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=xxxgod个人github首页;欢迎访问!&center=true&size=27"> </a> </h1>
  
   <!-- profile logo 个人资料徽标 -->
   <div>
@@ -14,7 +14,7 @@
 
 ### 🤺 About Me
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
-<p>&emsp;&emsp;嗨，你好，我是xxxgod，程序员一枚。</p>
+<p>&emsp;&emsp;xxxgod，程序员一枚。</p>
 <p>&emsp;&emsp;计算机科学与技术专业，熟悉领域：安卓逆向开发，JAVA后端开发。</p>
 
 ### 🏢 Work Experience

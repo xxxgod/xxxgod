@@ -32,7 +32,7 @@
 <div align="left"> <img width="600" src="https://github-profile-trophy.vercel.app/?username=xxxgod" /> </div>
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,cpp,css,html,js,mongodb,vscode,idea,git" /><br>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,jenkins,idea,git,ps,ai,cpp,css,html,js,mongodb,vscode,vue,jquery" /><br>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>

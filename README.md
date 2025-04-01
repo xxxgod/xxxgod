@@ -3,8 +3,9 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://xxxgod.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-       <a href="https://"><img src="https://img.shields.io/badge/Tiktok-抖音-blue" /></a>&emsp;
-    <a href="https://"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://"><img src="https://img.shields.io/badge/Toutiao-头条-blue" /></a>&emsp;
+    <a href="https://"><img src="https://img.shields.io/badge/Tiktok-抖音-red" /></a>&emsp;
+    <a href="https://"><img src="https://img.shields.io/badge/WeChat-公众号-green" /></a>&emsp;
     <a href="https://"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=xxxgod&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;

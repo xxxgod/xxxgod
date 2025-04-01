@@ -18,9 +18,10 @@
 <p>&emsp;&emsp;计算机科学与技术专业，熟悉领域：安卓ROM逆向开发，JAVA后端开发。</p>
 
  ### 🤺 Focus areas
- <p>&emsp;&emsp;ERP/OA/CRM,电商系统</p>
- <p>&emsp;&emsp;MTK,高通刷机方案\smali反编译</p>
- <p>&emsp;&emsp;私有云部署</p>
+ <p>&emsp;&emsp;ERP/OA/CRM/CMS/DGS/SOC/​B2C系统</p>
+ <p>&emsp;&emsp;MTK、高通刷机方案/Dex反编译/ROM移植</p>
+ <p>&emsp;&emsp;私有云：nas，docker</p>
+ <p>&emsp;&emsp;智能设备：路由器,电视,机顶盒，智能音箱</p>
  
 
 ### 🏢 Work Experience

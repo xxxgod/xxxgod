@@ -16,19 +16,20 @@
 ### 🤺 About Me
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 <p>&emsp;&emsp;xgenius,程序员. 计算机科学与技术专业</p>
-<p>&emsp;&emsp;熟悉领域: JAVA后端开发,安卓ROM逆向开发</p>
+<p>&emsp;&emsp;熟悉领域: JAVA后端开发,安卓ROM逆向开发,运维方向</p>
 
  ### 🤺 Focus areas
  <p>&emsp;&emsp;ERP/OA/CRM/CMS/DGS/SOC/​B2C系统</p>
  <p>&emsp;&emsp;私有云部署: nas,docker</p>
  <p>&emsp;&emsp;安卓MTK、高通刷机方案/Dex反编译/ROM移植,系统调优</p>
  <p>&emsp;&emsp;智能设备: 路由器,电视,机顶盒,智能音箱</p>
+  <p>&emsp;&emsp;AI问数、RAG、多模态</p>
  
 
 ### 🏢 Work Experience
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
 - [工作经验] 📌 2013-07 —— Now <br>
-- 工作岗位：📌  JAVA开发工程师
+- 工作岗位：📌  全栈开发工程师
 <p>&emsp;&emsp;</p>
 
 

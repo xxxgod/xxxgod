@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=[xgod]github首页;欢迎访问!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=[xgenius]github首页;欢迎访问!&center=true&size=27"> </a> </h1>
  
   <!-- profile logo 个人资料徽标 -->
   <div>

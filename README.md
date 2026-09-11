@@ -15,7 +15,7 @@
 
 ### 🤺 About Me
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
-<p>&emsp;&emsp;xgod,程序员. 计算机科学与技术专业</p>
+<p>&emsp;&emsp;xgenius,程序员. 计算机科学与技术专业</p>
 <p>&emsp;&emsp;熟悉领域: JAVA后端开发,安卓ROM逆向开发</p>
 
  ### 🤺 Focus areas
